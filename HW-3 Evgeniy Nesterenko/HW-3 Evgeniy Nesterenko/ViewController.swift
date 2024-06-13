@@ -24,3 +24,7 @@ var Brand: String = "Apple"
 
 // Изменения №3 для создания 3-го commit
 var Brand1: String = "Apple Inc"
+
+// Проект был полностью удален и заново скачен из GitHub
+// // Изменения №4 для создания 4-го commit
+var Brand2: String = "Apple Inc."
