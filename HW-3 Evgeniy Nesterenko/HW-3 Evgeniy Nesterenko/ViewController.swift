@@ -31,3 +31,7 @@ var Brand2: String = "Apple Inc."
 
 // Изменения №5 для создания 5-го commit
 var Brand3: String = "Apple Inc.!"
+
+// Была создана новая ветка - develop и сделан commit на этой ветке
+// Изменения №6 для создания 6-го commit
+var Brand4: String = "Apple Inc.!!!"
