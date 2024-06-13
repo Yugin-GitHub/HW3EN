@@ -18,3 +18,6 @@ class ViewController: UIViewController {
 }
 // Изменения №1 для создания 1-го commit
 var Number1: Int = 5
+
+// Изменения №2 для создания 2-го commit
+var Brand: String = "Apple"
