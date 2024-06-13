@@ -21,3 +21,6 @@ var Number1: Int = 5
 
 // Изменения №2 для создания 2-го commit
 var Brand: String = "Apple"
+
+// Изменения №3 для создания 3-го commit
+var Brand1: String = "Apple Inc"
