@@ -16,4 +16,5 @@ class ViewController: UIViewController {
 
 
 }
-
+// Изменения №1 для создания 1-го commit
+var Number1: Int = 5
